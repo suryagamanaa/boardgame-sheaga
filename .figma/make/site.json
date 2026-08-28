@@ -1,0 +1,10 @@
+{
+  "description": "Engage users with an interactive board game featuring animated pieces and dice, designed to enhance learning and entertainment in a vibrant blue and pink palette.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
